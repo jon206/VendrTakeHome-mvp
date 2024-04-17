@@ -4,7 +4,7 @@ The node version is `v21.6.0`.
 
 ## To run this project, clone this repository and navigate to the directory.
 
-- `git clone https://github.com/mercurystudio99/vendrtakehome.git`
+- `git clone https://github.com/jon206/VendrTakeHome-mvp`
 - `cd vendrtakehome`
 
 ## Run the following command to install dependencies.
